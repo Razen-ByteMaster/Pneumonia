@@ -1,0 +1,12 @@
+torch
+torchvision
+numpy
+pandas
+flask
+pillow
+opencv-python
+scikit-learn
+matplotlib
+requests
+werkzeug
+
