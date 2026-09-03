@@ -115,6 +115,6 @@ Pneumonia/
 
 ## 📄 License
 
-MIT. Built by [Razen Moamen](https://github.com/Razen-ByteMaster) as a portfolio project. PRs welcome! 🎉
+MIT. Built by [Razen-ByteMaster](https://github.com/Razen-ByteMaster) as a portfolio project. PRs welcome! 🎉
 
 > ⚕️ **Disclaimer:** educational/portfolio project — not a medical device. Never use it for real diagnosis.
